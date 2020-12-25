@@ -1,0 +1,3 @@
+{
+    "files": ["main.qml","main.py","qml/components/CircularProgressBar.qml"]
+}
